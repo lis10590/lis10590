@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lis Setgasy
 - 👀 I’m interested in a challenging **Full-Stack Web Developer** position that will manifest my skills and talent.     
-- :computer: My projects contain the use of **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, mongoose**
+- :computer: My projects contain the use of **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, mongoose, Python,flask**
 - 📫 Contact me on lisset10590@gmail.com 
 
 <!---
